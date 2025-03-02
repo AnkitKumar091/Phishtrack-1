@@ -3,7 +3,7 @@ import re
 import csv
 def convertion(url,prediction):
     name = []
-    
+      
     # found_url = find_url_in_csv('Datafiles/phishurls.csv', url)
     '''if "https://" in url:
         urlz = url.replace("https://","")

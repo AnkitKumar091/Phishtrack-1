@@ -2,7 +2,7 @@ import ipaddress
 import re
 import urllib.request
 from urllib import response
-
+   
 #from Demos.win32cred_demo import domain
 from bs4 import BeautifulSoup
 import socket
